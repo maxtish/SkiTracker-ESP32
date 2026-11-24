@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code (генерируется локально под каждый ПК)
+.vscode/
+
+# ОС и временные файлы
+.DS_Store
+Thumbs.db
+*.log
